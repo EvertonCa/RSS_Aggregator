@@ -1,0 +1,4 @@
+RSS_Aggregator
+.env
+*.txt
+tests.http
